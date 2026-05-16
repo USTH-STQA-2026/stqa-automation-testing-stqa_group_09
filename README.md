@@ -23,10 +23,11 @@ Sử dụng **Playwright + Python** để kiểm thử hệ thống Mượn sác
 
 | #   | MSSV | Họ và tên | Vai trò     |
 | --- | ---- | --------- | ----------- |
-| 1   |      |           | Nhóm trưởng |
-| 2   |      |           | Thành viên  |
-| 3   |      |           | Thành viên  |
-| 4   |      |           | Thành viên  |
+| 1   | 2410425 | Trần Ngọc Hải | Nhóm trưởng |
+| 2   | 2410781 | Hoàng Minh Phúc | Thành viên  |
+| 3   | 2410215 | Ngô Tuấn Duy | Thành viên  |
+| 4   | 2410167 | Trần Xuân Bắc | Thành viên  |
+| 5   | 2410490 | Nguyễn Tuấn Khải | Thành viên  |
 
 ---
 
