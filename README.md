@@ -17,9 +17,9 @@ Sử dụng **Playwright + Python** để kiểm thử hệ thống Mượn sác
 
 |              | Thông tin                    |
 | ------------ | ---------------------------- |
-| **Tên nhóm** | `<!-- VD: Nhóm 1 -->`        |
-| **Lớp**      | `<!-- VD: SE001.P11 -->`     |
-| **Học kỳ**   | `<!-- VD: HK2 2025-2026 -->` |
+| **Tên nhóm** | Nhóm 9 |
+| **Lớp**      | ICT2.012 |
+| **Học kỳ**   | HK2 2025-2026 |
 
 | #   | MSSV | Họ và tên | Vai trò     |
 | --- | ---- | --------- | ----------- |
@@ -27,7 +27,7 @@ Sử dụng **Playwright + Python** để kiểm thử hệ thống Mượn sác
 | 2   | 2410781 | Hoàng Minh Phúc | Thành viên  |
 | 3   | 2410215 | Ngô Tuấn Duy | Thành viên  |
 | 4   | 2410167 | Trần Xuân Bắc | Thành viên  |
-| 5   | 2410490 | Nguyễn Tuấn Khải | Thành viên  |
+| 5   | 2410490 | Nguyễn Tuấn Khải | Thành viên |
 
 ---
 
